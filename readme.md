@@ -75,6 +75,7 @@
 - YouTube & YouTube Music
 - Spotify playlists & tracks
 - SoundCloud
+- Deezer (Not Available Now)
 - Bandcamp
 - Twitch streams
 - Direct MP3 links
@@ -108,7 +109,7 @@
 
 ### Join Our Community
 
-<a href="https://discord.gg/your-support-server">
+<a href="https://discord.gg/8a8EPeu8">
   <img src="https://img.shields.io/badge/💬%20Support%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="50"/>
 </a>
 
@@ -187,9 +188,19 @@ Cloud Servers • Cloudflare • 24/7 Monitoring
 [![Discord](https://img.shields.io/badge/Discord-razi_scofield-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/875402851986325504)
 
 ### Audio Server Manager
-**Zpy** - *Manager & Maintainer*  
+**Zpy** - *Manager & Lead Developer*  
 [![GitHub](https://img.shields.io/badge/GitHub-WroxExm-181717?style=for-the-badge&logo=github)](https://github.com/WrxoExm)
-[![Discord](https://img.shields.io/badge/Discord-zpy.rx-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1153357788081303685)
+[![Discord](https://img.shields.io/badge/Discord-Zpy-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1153357788081303685)
+
+### Ui / Ux Designer
+**Hadi** - *Designer / Owner*  
+[![GitHub](https://img.shields.io/badge/GitHub-Hadi(H3)-181717?style=for-the-badge&logo=github)](https://github.com/H3-GaminG)
+[![Discord](https://img.shields.io/badge/Discord-Hadi-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1107939269957406821)
+
+### Owner
+**Oxeey** - *Owner*  
+[![GitHub](https://img.shields.io/badge/GitHub-Oxeeyz-181717?style=for-the-badge&logo=github)](https://github.com/oxeeyz)
+[![Discord](https://img.shields.io/badge/Discord-Oxeeyz-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1050593287590920232)
 
 ---
 
